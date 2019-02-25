@@ -1,0 +1,83 @@
+.asiacup{
+    height:100px; width:150px;
+}
+.team{
+    list-style:none;
+}
+.indbtn{
+    width:150px;
+    position: relative;
+    top:250px;
+    right:245px;
+}
+.pakbtn{
+  width:150px;
+  
+position: relative;
+left:500px;
+   top:-25px;
+
+}
+
+.indlogo{
+  height:250px; width:250px;
+  margin-right:40px;
+  position: relative;
+  top:25px;
+}
+.paklogo{
+    height:250px; width:250px;
+   left:700px;
+    position: relative;
+    top:-225px;
+}
+.share{
+position: relative;
+left:440px;
+}
+.socialmedia{
+    position: relative;
+    left:440px;
+}
+
+@media screen and (max-width:500px) {
+.asiacup{
+    height:200px; width:250px;
+}
+.team{
+    list-style:none;
+}
+.indbtn{
+    width:50px;
+    position: relative;
+    top:120px;
+    right:115px;
+}
+.pakbtn{
+    width:50px;
+  left:90px;
+    position: relative;
+    top:1px;
+
+}
+.indlogo{
+  height:100px; width:100px;
+  margin-right:40px;
+}
+.paklogo{
+    height:100px; width:100px;
+    left:170px;
+    position: relative;
+    top:-95px;
+}
+.share
+{
+    position: relative;
+  left:-20px;
+}
+.socialmedia
+{
+    position: relative;
+    left:30px;
+}
+}
